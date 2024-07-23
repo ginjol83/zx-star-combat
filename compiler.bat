@@ -1,0 +1,1 @@
+C:\zxbasic\zxbc.exe -t -B -a starcombat.bas

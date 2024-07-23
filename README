@@ -1,0 +1,30 @@
+# Star Combat
+
+Star Combat es un emocionante juego de evasión y supervivencia desarrollado en Boriel BASIC para el ZX Spectrum. En este juego, los jugadores deben maniobrar su nave para colisionar con alienígenas que descienden constantemente hacia ellos. Con cada colisión, el juego se vuelve progresivamente más desafiante, aumentando la velocidad de los alienígenas.
+
+## Características
+
+- **Control Simple**: Usa las teclas `O` para mover tu nave hacia la izquierda y `P` para moverla hacia la derecha.
+- **Aumento de Dificultad**: La velocidad de los alienígenas aumenta con cada alienígena chocado, lo que hace que el juego sea más desafiante cuanto más tiempo sobrevivas.
+- **Puntuación**: Gana puntos por cada alienígena chocado. ¡Intenta superar tu propio récord!
+
+## Cómo Jugar
+
+1. Al inicio del juego, tu nave se posiciona en la parte inferior de la pantalla.
+2. Usa las teclas `O` y `P` para mover tu nave a la izquierda y a la derecha, respectivamente.
+3. Evita los alienígenas que descienden hacia ti. Si un alienígena alcanza la parte inferior de la pantalla sin colisionar con tu nave, el juego terminará.
+4. El juego termina cuando un alienígena no colisiona con tu nave y llega al final de la pantalla.
+
+## Sonidos del Juego
+
+- **Colisión**: Se reproduce un sonido breve y grave cada vez que un alienígena colisiona con tu nave, indicando un aumento de punto.
+
+## Final del Juego
+
+El juego termina cuando un alienígena no colisiona con tu nave. Tu puntuación final se muestra en pantalla, dándote la oportunidad de intentar superarla en el próximo juego.
+
+## Desarrollo
+
+Este juego fue desarrollado en Boriel BASIC, aprovechando las capacidades gráficas y de sonido del ZX Spectrum para crear una experiencia de juego retro y desafiante.
+
+¡Prepárate para poner a prueba tus reflejos y ver hasta dónde puedes llegar en Star Combat!
